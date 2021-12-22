@@ -1,0 +1,3206 @@
+
+
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title></title>
+    <link rel="icon" href="/dist/img/netivei_israel_logo.png" type="image/x-icon">
+    <meta name="description" content="" />
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+
+<link href="/bundles/styles.css?v=bjcaYGaF3aKarKrkKznHrS4vSfVvHQXez2MhX3rwj-01" rel="stylesheet"/>
+
+    
+    
+    <script src="/bundles/javascript.js?v=vsLFQvqEXm1tOTOSCRKSnNmS1egEUvalcOJWnYDWOHg1"></script>
+
+    <script src="/Scripts/SpokesmanMessageBoardSurfaceFiltering.js"></script>
+
+    <script src="/Scripts/projectLobbyFiltering.js"></script>
+
+    <script src="/Scripts/ResearchProductsApprovalFiltering.js"></script>
+
+    <script src="/Scripts/MainSearch.js"></script>
+
+    
+
+    <script src="//content.jwplatform.com/libraries/uiuGQJ7e.js"></script>
+    <!-- Recapcha -->
+    <script>
+        var jobCaptcha;
+        var reportCaptcha;
+        var myCallBack = function () {
+            if ($('#recaptcha1').is(':empty')) {
+                jobCaptcha = grecaptcha.render('recaptcha1', {
+                    'sitekey': '6LfQ1oQUAAAAADgAKj_bYKp03ai7pZpXQH5buNep',
+                    'theme': 'light',
+                });
+
+            }
+
+            if ($('#recaptcha2').is(':empty')) {
+                reportCaptcha = grecaptcha.render('recaptcha2', {
+                    'sitekey': '6LfQ1oQUAAAAADgAKj_bYKp03ai7pZpXQH5buNep',
+                    'theme': 'light',
+                });
+
+            }
+            
+
+        };
+
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js?onload=myCallBack&render=explicit&hl=iw" async defer></script>
+
+
+
+</head>
+<body ontouchstart="" class=" ">
+
+    <main>
+<!-- inject:header -->
+
+<header class="v2">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36687034-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-36687034-1');
+    </script>
+
+
+    <div class="skip">
+        <h2 class="sr-only">תפריט נגישות</h2>
+        <ul>
+            <li>
+                <a tabindex="1" class="sr-only sr-only-focusable" href="#generalTab">דלג לתפריט ראשי</a>
+            </li>
+            <li>
+                <a tabindex="2" class="sr-only sr-only-focusable" href="#wrapper">דלג לתוכן העמוד</a>
+            </li>
+            <li>
+                <a tabindex="3" class="sr-only sr-only-focusable" href="#footerMenu">דלג למפת האתר</a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="quickActions">
+        <a href="https://www.facebook.com/netiveiisrael/" class="btn report" target="_blank" aria-label="עיקבו אחרינו בפייסבוק">
+            <img src="/dist/img/pic03.png" class="pic" alt="" />
+            <span class="textIcon">
+                עקוב אחרינו
+            </span>
+        </a>
+        <a href="tel:*2120" class="btn call" aria-label="טלפון להתקשרות">
+            <img src="/dist/img/pic09.png" class="pic" alt="" />
+            
+            <span class="textIcon">
+                *2120
+            </span>
+        </a>
+        <a href="/דיווח-על-מפגעפניות-הציבור/" class="btn report" target="_blank" aria-label="דיווח על מפגע">
+            <img src="/dist/img/pic10.png" class="pic" alt="" />
+            <span class="textIcon">
+
+                מפגע
+            </span>
+        </a>
+    </div>
+
+    <nav class="mainNav" role="navigation">
+        <button class="btnHamburger collapsed" type="button" data-toggle="collapse"
+                data-target="#toggleNavBar"
+                aria-expanded="false" aria-label="פתיחת/סגירת תפריט">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse mainNavbar" id="toggleNavBar" role="menubar">
+            <div class="wrap">
+                <div class="headerTop">
+                    <a href="/" class="brand" title="לוגו">
+                            <img src="/media/1003/pic02.png" class="regular" alt="נתיבי ישראל עמוד הבית" />
+                    </a>
+                    <ul class="headerIcons" role="menubar">
+                        <li class="d-none d-lg-block">
+                            <div class="menuSerachLanguage">
+                                    <select class="selectpicker arrow" id="chooseLanguage" role="menu" data-maxoptions="3" data-size="3" data-width="100%" data-label="בחר שפה" data-dropupauto="false">
+
+                                            <option data-link-to="/" data-content="עב<span>רית </span>">עברית</option>
+                                            <option data-link-to="/en/" data-content="En<span> </span>">En</option>
+                                            <option data-link-to="https://online.fliphtml5.com/kfky/thcf/" data-content="ال<span>عربية </span>">العربية</option>
+
+                                        
+                                    </select>
+                            </div>
+                        </li>
+                        <li class="d-lg-block contrastCont">
+                            <a href="#" class="headerIcon btnAccessibility" id="btnContrast" data-body="contrastColors" role="button">
+                                <img src="/dist/img/pic05.png" alt="change contrast icon " class="regularIcon" />
+                                <img src="/dist/img/pic05-white.png" alt="change contrast icon " class="contrasted" />
+                            </a>
+                        </li>
+                        <li class="d-none d-lg-block">
+                            <a href="#" class="link btnAccessibility" id="btnKeyboard" data-body="keyboard" role="button">
+                                <img src="/dist/img/pic04.png" class="headerIcon regularIcon" alt="ניווט בעזרת מקלדת" />
+                                <img src="/dist/img/pic04-white.png" class="headerIcon contrasted" alt="ניווט בעזרת מקלדת" />
+                            </a>
+                        </li>
+                                <li class="d-lg-none">
+                                    <a href="/" class="link">
+                                        עברית
+                                    </a>
+                                </li>
+                                <li class="d-lg-none">
+                                    <a href="/en/" class="link">
+                                        En
+                                    </a>
+                                </li>
+                                <li class="d-lg-none">
+                                    <a href="https://online.fliphtml5.com/kfky/thcf/" class="link">
+                                        العربية
+                                    </a>
+                                </li>
+
+                            <li class="d-none d-lg-block">
+                                <a href="https://www.facebook.com/netiveiisrael/" class="link" target="_blank">
+                                    <img src="/dist/img/pic03.png" class="headerIcon" alt="facebook icon" />
+                                </a>
+                            </li>
+
+                            <li class="websitePhoneNumber d-none d-xl-block">
+                                <a class="websitePhoneNumber-text" href="/דיווח-על-מפגעפניות-הציבור/">
+                                    <span>2120*</span>
+                                </a>
+                            </li>
+
+
+                    </ul>
+                </div>
+                <div class="headerBottom" id="generalTab" tabindex="-1">
+                    <ul class="nav nav-tabs list mainMenu navTabs" role="tablist" aria-multiselectable="true">
+                        <li class="tabWindow">
+
+                            <a id="item1" class="link menuLink" href="#itemOne" data-toggle="tab" aria-selected="true" role="tab" aria-controls="itemOne" tabindex="0">
+                                על החברה
+                            </a>
+                        </li>
+                        <li class="tabWindow">
+                            <a id="item2" class="link menuLink" href="#itemTwo" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemTwo" tabindex="-1">
+                                פרויקטים
+                            </a>
+                        </li>
+                        <li class="tabWindow">
+                            <a id="item3" class="link menuLink" href="#itemThree" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemThree" tabindex="-1">
+                                 מידע לספקים ומכרזים
+                            </a>
+                        </li>
+                        <li class="tabWindow">
+                            <a id="item4" class="link menuLink" href="#itemFour" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemFour" tabindex="-1">
+                                אחריות תאגידית
+                            </a>
+                        </li>
+                        <li class="tabWindow">
+                            <a id="item5" class="link menuLink" href="#itemFive" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemFive" tabindex="-1">
+                                מרכז חדשנות ומו&quot;פ 
+                            </a>
+                        </li>
+                        <li class="tabWindow">
+                            <a id="item6" class="link menuLink" href="#itemSix" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemSix" tabindex="-1">
+                                שירות לקוחות
+                            </a>
+                        </li>
+
+                        <li class="tabWindow">
+                            <a id="item7" class="link menuLink" href="#itemSeven" data-toggle="tab" aria-selected="false" role="tab" aria-controls="itemSeven" tabindex="-1">
+                                שדה תעופה משלים
+                            </a>
+                        </li>
+
+                        <li class="tabWindow searchDesktop">
+                            <button id="search-btn" class="link search" data-toggle="collapse" data-target="#header-search" aria-selected="false" aria-controls="header-search">
+                                <div class="searchIcon">
+                                    <img src="/dist/img/pic11.png" class="pic regularIcon" alt="לחץ לחיפוש" />
+                                    <img src="/dist/img/pic12.png" class="pic contrasted" alt="לחץ לחיפוש">
+                                </div>
+                            </button>
+                        </li>
+
+                            <li class="collegeLink">
+                                <a id="" class="link" href="/מכללת-נתיבים-1/" target="">
+                                    <img class="collegeIcoImg whiteIco" src="/dist/img/collegeLinkIco.png" alt="college" />
+                                    <img class="collegeIcoImg blueIco" src="/dist/img/collegeLinkIcoBlue.png" alt="college" />
+                                    מכללת נתיבים
+                                </a>
+                            </li>
+
+
+                        <li class="websitePhoneNumber d-xl-none">
+                            <a class="websitePhoneNumber-text" href="tel:*2120">
+                                <span>*2120</span>
+                            </a>
+                        </li>
+
+                        <li class="tabWindow searchMobile">
+                            <div class="link search menuLink" tabindex="0">
+                                <input type="text" placeholder="חיפוש" id="MobileSearchinner" class="searchInput d-lg-none">
+                                <div class="searchIcon searchSubmit3">
+                                    <img src="/dist/img/pic11.png" class="pic regularIcon" alt="לחץ לחיפוש">
+                                    <img src="/dist/img/pic12.png" class="pic contrasted" alt="לחץ לחיפוש">
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                    <div class="tab-content lightBg">
+                        <div id="itemOne" class="tab-pane fade menuItem" role="tabpanel" tabindex="0" aria-hidden="false" aria-labelledby="item1">
+                            <div class="mainDropdown row aboutTab">
+                                <div class="itemBox linkIconContainer">
+                                    <a href="#itemOne" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                        <span class="backArrow"></span>
+                                        <h3>על החברה</h3>
+                                    </a>
+                                    <h4 class="col-12 title pr-4">אודותינו</h4>
+                                        <div class="row iconlist oneMissing">
+
+
+
+<a href="/על-החברה/about/" class="infoIcon">
+    <img src="/media/1826/icon_01.png" class="pic" alt="" />
+    <figcaption>אודות נתיבי ישראל  </figcaption>
+</a>
+
+
+<a href="/על-החברה/jobs-page/" class="infoIcon">
+    <img src="/media/1833/icon_08.png" class="pic" alt="" />
+    <figcaption>דרושים  </figcaption>
+</a>
+
+
+<a href="/על-החברה/מבנה-ארגוני/" class="infoIcon">
+    <img src="/media/1828/icon_03.png" class="pic" alt="" />
+    <figcaption>מבנה ארגוני  </figcaption>
+</a>
+
+
+<a href="/על-החברה/team-page/" class="infoIcon">
+    <img src="/media/1829/icon_04.png" class="pic" alt="" />
+    <figcaption>הנהלה ובעלי תפקידים  </figcaption>
+</a>
+
+
+<a href="/על-החברה/directors-page/" class="infoIcon">
+    <img src="/media/1830/icon_05.png" class="pic" alt="" />
+    <figcaption>דירקטוריון  </figcaption>
+</a>
+
+
+<a href="/על-החברה/הקוד-האתי/" class="infoIcon">
+    <img src="/media/1831/icon_06.png" class="pic" alt="" />
+    <figcaption>הקוד האתי  </figcaption>
+</a>
+
+
+<a href="/על-החברה/דוחות-כספיים/" class="infoIcon">
+    <img src="/media/1832/icon_07.png" class="pic" alt="" />
+    <figcaption>דו&quot;חות כספיים  </figcaption>
+</a>
+
+
+<a href="/על-החברה/גמלאים/" class="infoIcon">
+    <img src="/media/1834/icon_09.png" class="pic" alt="" />
+    <figcaption>גמלאים  </figcaption>
+</a>
+
+
+<a href="/על-החברה/ניהול-סיכונים/" class="infoIcon">
+    <img src="/media/6614/סגל.png" class="pic" alt="" />
+    <figcaption>ניהול סיכונים  </figcaption>
+</a>
+
+
+<a href="/על-החברה/מדיניות-האיכות/" class="infoIcon">
+    <img src="/media/1806/icon_service_01.png" class="pic" alt="מדיניות האיכות " />
+    <figcaption>מדיניות האיכות   </figcaption>
+</a>
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/מחויבות-לעובדים-1/מדיניות-העסקה/" class="infoIcon">
+    <img src="/media/1312/pic61.png" class="pic" alt="מדיניות העסקה" />
+    <figcaption>מדיניות העסקה  </figcaption>
+</a>
+
+                                        </div>
+
+                                </div>
+                                    <div class="itemBox linkBoxContainer linksList" id="linksList-2" viewed-animation-delay="0.15">
+                                        <h4 class="col-12 title">תכניות רב שנתיות</h4>
+
+                                        <ul>
+                                                    <li><a href="http://online.fliphtml5.com/kfky/bijp/" class="link animatedEl" target="_blank">תכנית רב שנתית 2010- 2006</a></li>
+                                                    <li><a href="http://online.fliphtml5.com/kfky/efhy/" class="link animatedEl" target="_blank">תכנית רב שנתית 2016- 2011</a></li>
+                                                    <li><a href="http://online.fliphtml5.com/kfky/rhsc/" class="link animatedEl" target="_blank">תכנית רב שנתית 2017-2021</a></li>
+                                        </ul>
+                                    </div>
+                                                            </div>
+                        </div>
+
+                        <div id="itemTwo" class="tab-pane fade menuItem" role="tabpanel" tabindex="-1" aria-hidden="true" aria-labelledby="item2">
+                            <div class="mainDropdown row projectsTab">
+                                <a href="#" class="d-lg-none goBack">
+                                    <span class="backArrow"></span>
+                                    <h3>פרויקטים </h3>
+                                </a>
+                                    <div class="itemBox linkBoxContainer linksList" id="linksList-1" viewed-animation-delay="0.15">
+                                        <h4 class="title"> _____</h4>
+                                            <ul class="nav list">
+                                                    <li>
+                                                        <a href="/תיקיית-פרויקטים/project-lobby/" class="link animatedEl">פרויקטי ביצוע</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/תיקיית-פרויקטים/פרוייקטים-יעודים/" class="link animatedEl">פרויקטים יעודיים</a>
+                                                    </li>
+                                                    <li>
+                                                        <a href="/תיקיית-פרויקטים/פרוייקטי-אחזקה/" class="link animatedEl">פרויקטי אחזקה</a>
+                                                    </li>
+                                            </ul>
+                                    </div>
+
+                                <div class="itemBox linkIconContainer middleContent">
+                                    <h4 class="title col-12 pr-2">פרויקטים</h4>
+                                        <div class="row iconlist  oneMissing">
+
+
+
+<a href="/תיקיית-פרויקטים/project-lobby/" class="col-6 col-md-3 infoIcon">
+    <img src="/media/1013/pic13.png" class="pic" alt="" />
+    <figcaption>פרויקטים  </figcaption>
+</a>
+
+
+
+
+<a href="/תיקיית-פרויקטים/פרוייקטים-יעודים/" class="col-6 col-md-3 infoIcon">
+    <img src="/media/1879/icon-project-5.png" class="pic" alt="" />
+    <figcaption>פרויקטים יעודיים  </figcaption>
+</a>
+
+
+
+
+<a href="/תיקיית-פרויקטים/פרוייקטי-אחזקה/" class="col-6 col-md-3 infoIcon">
+    <img src="/media/1361/pic142.png" class="pic" alt="" />
+    <figcaption>פרוייקטי אחזקה  </figcaption>
+</a>
+
+                                        </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div id="itemThree" class="tab-pane fade menuItem" role="tabpanel" aria-hidden="true" tabindex="-1" aria-labelledby="item3">
+                            <div class="mainDropdown row">
+                                <div class="itemBox linkIconContainer innerTabWrapper">
+                                    <a href="#itemThree" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                        <span class="backArrow"></span>
+                                        <h3> מידע לספקים ומכרזים</h3>
+                                    </a>
+
+                                    <ul class="btnWrapper nav nav-tabs" role="tablist">
+                                        <li class="btnContainer">
+                                            <a id="supplyTab" class="innerTabBtn tabWindow active" data-toggle="tab" role="tab" href="#supply">מכרזים</a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a id="auctionTab" class="innerTabBtn tabWindow" data-toggle="tab" role="tab" href="#auction">מידע לספקים</a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a id="tab3" class="innerTabBtn tabWindow" data-toggle="tab" role="tab" href="#tab_3">שאלות ותשובות</a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="tab-content">
+                                        <div class="tab-pane innerTabCont fade active show" id="supply">
+                                            <div class="projectsTab v2">
+                                                
+                                                    <div class="row iconlist oneMissing bothMissing">
+
+
+
+
+<a href="/מכרזים/מכרזים/" class="infoIcon">
+    <img src="/media/1840/icon_15.png" class="pic" alt="" />
+    <figcaption>מכרזים</figcaption>
+</a>
+
+
+
+
+<a href="/מכרזים/התקשרות-בפטור/" class="infoIcon">
+    <img src="/media/6615/אודות.png" class="pic" alt="פרסום התקשרויות בפטור" />
+    <figcaption>התקשרויות בפטור</figcaption>
+</a>
+
+
+
+
+<a href="/מכרזים/ספק-יחידחוץ/" class="infoIcon">
+    <img src="/media/1842/icon_17.png" class="pic" alt="" />
+    <figcaption>קיום ספקים - יחיד/חוץ/מיזם משותף</figcaption>
+</a>
+
+
+
+
+<a href="/מכרזים2/בקשה-לקבלת-מידע-rfi/" class="infoIcon">
+    <img src="/media/1844/icon_19.png" class="pic" alt="" />
+    <figcaption>בקשות לקבלת מידע RFI</figcaption>
+</a>
+
+
+
+
+<a href="/מכרזים/רישום-למאגר-ספקים-מומחים/" class="infoIcon">
+    <img src="/media/1843/icon_18.png" class="pic" alt="" />
+    <figcaption>רישום למאגר ספקים מומחים</figcaption>
+</a>
+
+
+
+
+<a href="/מכרזים2/עדכונים-לספקים/" class="infoIcon">
+    <img src="/media/1861/icon_36.png" class="pic" alt="" />
+    <figcaption>הודעות ועדכונים לספקים</figcaption>
+</a>
+                                                    </div>
+                                            </div>
+
+                                            <div class="projectsTab v2">
+                                                
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane innerTabCont fade" id="auction">
+                                            <div class="projectsTab v2">
+                                                
+                                                
+                                                    <div class="row iconlist oneMissing bothMissing">
+
+
+
+
+<a href="/מידע-לספקים/הנחיות-תכנון-וביצוע-cad-standard/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>CAD STANDARD</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/הנחיות-תכנון-וביצוע-פרטי-קונסטרוקציה/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>פרטים סטנדרטיים</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/הנחיות-תכנון-וביצוע-בקרה-עצמית/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>בקרה עצמית</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/הנחיות-לתכנון/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>הנחיות לתכנון</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/טפסים-רלוונטיים-לתכנון-וביצוע/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>טפסים רלוונטיים לתכנון וביצוע</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/הנחיות-תכנון-וביצוע-מגדיר-משימות/" class="infoIcon">
+    <img src="/media/1869/icon_44.png" class="pic" alt="" />
+    <figcaption>מגדיר משימות</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/המפרט-הכללי/" class="infoIcon">
+    <img src="/media/1868/icon_43.png" class="pic" alt="" />
+    <figcaption>המפרט הכללי</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/חוזה-כתב-כמויות-חדש/" class="infoIcon">
+    <img src="/media/10853/pic139.png" class="pic" alt="" />
+    <figcaption>הסכם כתב כמויות חדש</figcaption>
+</a>
+                                                    </div>
+                                            </div>
+
+                                            <div class="projectsTab v2">
+                                                
+                                                
+                                                    <div class="row iconlist oneMissing bothMissing">
+
+
+
+
+<a href="/מידע-לספקים/מפרטים-וסטנדרטיזציה/" class="infoIcon">
+    <img src="/media/1851/icon_26.png" class="pic" alt="" />
+    <figcaption>מפרטים וסטנדרטיזציה</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/מחירון-לעבודות-סלילה-וגישור/" class="infoIcon">
+    <img src="/media/1871/icon_46.png" class="pic" alt="" />
+    <figcaption>מחירון לעבודות סלילה וגישור</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/קטלוג-לעבודות-סלילה-וגישור/" class="infoIcon">
+    <img src="/media/1872/icon_47.png" class="pic" alt="" />
+    <figcaption>קטלוג לעבודות סלילה וגישור</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/הסמכות/" class="infoIcon">
+    <img src="/media/1853/icon_28.png" class="pic" alt="" />
+    <figcaption>הסמכות</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/התקשרויות-ותעריפים/" class="infoIcon">
+    <img src="/media/1873/icon_48.png" class="pic" alt="" />
+    <figcaption>התקשרויות ותעריפים</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/נהלים/" class="infoIcon">
+    <img src="/media/1870/icon_45.png" class="pic" alt="" />
+    <figcaption>נהלים</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/טפסים-ומערכות-מידע/" class="infoIcon">
+    <img src="/media/1874/icon_49.png" class="pic" alt="" />
+    <figcaption>טפסים - מערכות מידע</figcaption>
+</a>
+
+
+
+
+<a href="/מידע-לספקים/פרוייקטים-ייעודיים/" class="infoIcon">
+    <img src="/media/1879/icon-project-5.png" class="pic" alt="" />
+    <figcaption>פרוייקטים יעודיים </figcaption>
+</a>
+                                                    </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane innerTabCont fade" id="tab_3">
+                                            <div class="projectsTab v2">
+                                                    <div class="row iconlist oneMissing bothMissing">
+
+
+
+
+<a href="/faq/" class="infoIcon">
+    <img src="/media/1033/pic33.png" class="pic" alt="" />
+    <figcaption>שאלות ותשובות</figcaption>
+</a>
+
+
+
+
+<a href="mailto:kavham@iroads.co.il" class="infoIcon">
+    <img src="/media/6616/צור-קשר.png" class="pic" alt="" />
+    <figcaption>קו חם למבקר החברה</figcaption>
+</a>
+                                                    </div>
+                                            </div>
+
+                                            <div class="projectsTab v2">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div id="itemFour" class="tab-pane fade menuItem" role="tabpanel" aria-hidden="true" tabindex="-1" aria-labelledby="item4">
+                            <div class="mainDropdown row">
+                                <div class="itemBox linkIconContainer innerTabWrapper">
+                                    <a href="#itemFour" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                        <span class="backArrow"></span>
+                                        <h3>אחריות תאגידית </h3>
+                                    </a>
+
+                                    <ul class="btnWrapper nav nav-tabs" role="tablist">
+                                        <li class="btnContainer">
+                                            <a id="corporateTab" class="innerTabBtn tabWindow active" data-toggle="tab" role="tab" href="#corporate">
+                                                אחריות תאגידית
+                                            </a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a id="environmentTab" class="innerTabBtn tabWindow" data-toggle="tab" role="tab" href="#environment">
+                                                
+                                            </a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="tab-content">
+                                        <div id="corporate" class="tab-pane fade active show">
+                                                <div class="row iconlist oneMissing bothMissing">
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/אסטרטגיה-וניהול-1/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/1845/icon_20.png" class="pic"  alt="" />
+    <figcaption>אסטרטגיה וניהול </figcaption>
+</a>
+
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/מחויבות-לסביבה-1/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/7573/מחויבות-לסביבה.png" class="pic"  alt="" />
+    <figcaption>מחויבות לסביבה </figcaption>
+</a>
+
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/מחויבות-לעובדים-1/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/7574/מנהלים-לעובדים.png" class="pic"  alt="" />
+    <figcaption>מחויבות לעובדים</figcaption>
+</a>
+
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/מחויבות-לשרשרת-אספקה/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/1847/icon_22.png" class="pic"  alt="" />
+    <figcaption>מחויבות לשרשרת האספקה </figcaption>
+</a>
+
+
+
+<a href="/אחריות-תאגידית-ואיכות-הסביבה/מחויבות-למשתמשי-הדרך/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/7572/מחויבות-למשתמשי-הדרך.png" class="pic"  alt="" />
+    <figcaption>מחויבות למשתמשי הדרך</figcaption>
+</a>
+
+
+
+<a href="/תיקיית-פרויקטים/project-lobby/" class="col-6 col-md-4 col-lg-3 infoIcon">
+    <img src="/media/8399/icon.gif" class="pic"  alt="" />
+    <figcaption>קיימות בפרויקטים </figcaption>
+</a>
+
+                                                </div>
+
+                                        </div>
+                                        <div class="tab-pane fade" id="environment">
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div id="itemFive" class="tab-pane row fade menuItem" role="tabpanel" aria-hidden="true" tabindex="0">
+                            <div class="mainDropdown row">
+                                <a href="#itemFive" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                    <span class="backArrow"></span>
+                                    <h3>מרכז חדשנות ומו&quot;פ </h3>
+                                </a>
+                                <div class="itemBox linkIconContainer innerTabWrapper">
+                                    <div class="tab-pane col-12 fade active show">
+                                        <h4 class="title pr-3">חטיבת אסטרטגיה וחדשנות </h4>
+                                        <div class="row iconlist oneMissing bothMissing">
+
+
+<a href="/תיקיית-מחקרים/research-products-approval/" class="infoIcon">
+    <img src="/media/1852/icon_27.png" class="pic" alt="" />
+    <figcaption>אישור מוצרים חדשים</figcaption>
+</a>
+
+
+<a href="https://innovation.iroads.co.il/news/%d7%9e%d7%a0%d7%94%d7%9c%d7%aa-%d7%9e%d7%97%d7%a7%d7%a8-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%a0%d7%aa%d7%99%d7%91%d7%99-%d7%99%d7%a9%d7%a8%d7%90%d7%9c/" class="infoIcon" target="_blank">
+    <img src="/media/14501/shutterstock_456369325.png" class="pic" alt="מנהלת מחקר " />
+    <figcaption>מנהלת מחקר </figcaption>
+</a>
+
+
+<a href="https://innovation.iroads.co.il/challenge/" class="infoIcon">
+    <img src="/media/14503/99.png" class="pic" alt="תכנית הדגמות " />
+    <figcaption>אתגרים להדגמות</figcaption>
+</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="itemSix" class="tab-pane fade menuItem" role="tabpanel" aria-hidden="true" tabindex="-1" aria-labelledby="item6">
+                            <div class="mainDropdown row">
+                                <div class="itemBox linkIconContainer innerTabWrapper">
+                                    <a href="#itemSix" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                        <span class="backArrow"></span>
+                                        <h3>שירות לקוחות</h3>
+                                    </a>
+
+                                    <ul class="btnWrapper nav nav-tabs" role="tablist">
+                                        <li class="btnContainer">
+                                            <a class="innerTabBtn show tabWindow " data-toggle="tab" role="tab" href="#contact123"></a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a class="innerTabBtn tabWindow active" data-toggle="tab" role="tab" href="#roadServices123">שירות לקוחות ומידע</a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a class="innerTabBtn tabWindow " data-toggle="tab" role="tab" href="#info123"></a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="tab-content">
+                                                                                    <div class="tab-pane fade active show" id="roadServices123">
+                                                <div class="row iconlist oneMissing bothMissing">
+
+
+<a href="/דיווח-על-מפגעפניות-הציבור/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1854/icon_29.png" class="pic" alt="" />
+    <figcaption>מהות הפנייה</figcaption>
+</a>
+
+
+<a href="/תיקיית-מצלמות/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1860/icon_35.png" class="pic" alt="" />
+    <figcaption>מצלמות תנועה</figcaption>
+</a>
+
+
+<a href="/שירות-לקוחות/עמוד-כתבה-ניידות-שירות/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1858/icon_33.png" class="pic" alt="" />
+    <figcaption>ניידות שירות</figcaption>
+</a>
+
+
+<a href="/שירות-לקוחות/מרכז-שירות-לאומי-לניהול-תנועה/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1856/icon_31.png" class="pic" alt="" />
+    <figcaption>מרכז שירות לאומי לניהול התנועה</figcaption>
+</a>
+
+
+<a href="/שירות-לקוחות/חוק-חופש-המידע/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1859/icon_34.png" class="pic" alt="" />
+    <figcaption>חוק חופש המידע</figcaption>
+</a>
+
+
+<a href="/הכרזות/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1861/icon_36.png" class="pic" alt="" />
+    <figcaption>מידע על הכרזות ורכישות</figcaption>
+</a>
+
+
+<a href="/שירות-לקוחות/היתרים-לגורמי-חוץ/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/10130/alex1.gif" class="pic" alt="היתרים לגורמי חוץ " />
+    <figcaption>היתרים לגורמי חוץ </figcaption>
+</a>
+
+
+<a href="/שירות-לקוחות/תכניות-בהפקדה/" class="col-6 col-md-4 col-lg-4 infoIcon">
+    <img src="/media/1810/icon_service_05.png" class="pic" alt="" />
+    <figcaption>תכניות בהפקדה</figcaption>
+</a>
+
+
+<a href="https://cte.iroads.co.il/" class="col-6 col-md-4 col-lg-4 infoIcon" target="_blank">
+    <img src="/media/12474/מהנדס_תנועה.png" class="pic" alt="" />
+    <figcaption>בקשות למהנדס תנועה</figcaption>
+</a>
+
+
+<a href="https://ost.iroads.co.il/" class="col-6 col-md-4 col-lg-4 infoIcon" target="_blank">
+    <img src="/media/12473/הובלות-חריגות.png" class="pic" alt="" />
+    <figcaption> בקשות להיתר הובלה חריגה</figcaption>
+</a>
+                                                </div>
+                                            </div>
+
+
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div id="itemSeven" class="tab-pane fade menuItem" role="tabpanel" aria-hidden="true" tabindex="-1" aria-labelledby="item7">
+                            <div class="mainDropdown row">
+                                <div class="itemBox linkIconContainer innerTabWrapper">
+                                    <a href="#itemSeven" data-toggle="tab" aria-expanded="true" class="d-lg-none goBack">
+                                        <span class="backArrow"></span>
+                                        <h3>שדה תעופה משלים</h3>
+                                    </a>
+
+                                    <ul class="btnWrapper nav nav-tabs" role="tablist">
+                                        <li class="btnContainer">
+                                            <a id="supplyTab" class="innerTabBtn tabWindow active" data-toggle="tab" role="tab" href="#supply2">שדה תעופה משלים</a>
+                                        </li>
+                                        <li class="btnContainer">
+                                            <a id="auctionTab" class="innerTabBtn tabWindow" data-toggle="tab" role="tab" href="#auction2"></a>
+                                        </li>
+                                    </ul>
+
+                                    <div class="tab-content">
+                                        <div class="tab-pane innerTabCont fade active show" id="supply2">
+                                            <div class="projectsTab v2">
+                                                <h4 class="col-12 title pr-2"></h4>
+                                                    <div class="row iconlist oneMissing bothMissing">
+
+
+
+
+<a href="/שדה-תעופה-משלים/על-הפרויקט-שדה-תעופה-משלים/" class="infoIcon">
+    <img src="/media/6615/אודות.png" class="pic" alt="על הפרויקט " />
+    <figcaption>על הפרויקט </figcaption>
+</a>
+
+
+
+
+<a href="/שדה-תעופה-משלים/צוות-חטיבת-ppp/" class="infoIcon">
+    <img src="/media/6614/סגל.png" class="pic" alt="צוות המנהלת " />
+    <figcaption>צוות חטיבת PPP </figcaption>
+</a>
+
+
+
+
+<a href="/שדה-תעופה-משלים/תוצרי-פרויקט-שדה-תעופה-משלים/תוצרי-פרויקט-שדה-תעופה-משלים/" class="infoIcon">
+    <img src="/media/8530/מאמרים.png" class="pic" alt="תוצרי הפרויקט" />
+    <figcaption>תוצרי הפרויקט</figcaption>
+</a>
+
+
+
+
+<a href="/שדה-תעופה-משלים/מחקרים-מקצועיים/" class="infoIcon">
+    <img src="/media/6610/קורסים.png" class="pic" alt="מחקרים מקצועיים" />
+    <figcaption>מחקרים מקצועיים </figcaption>
+</a>
+
+
+
+
+<a href="/שדה-תעופה-משלים/עיתונות-ומדיה/" class="infoIcon">
+    <img src="/media/8592/onlinep.png" class="pic" alt="עיתונות ומדיה " />
+    <figcaption>עיתונות ומדיה</figcaption>
+</a>
+                                                    </div>
+                                            </div>
+
+                                            <div class="projectsTab v2">
+                                                <h4 class="col-12 title"></h4>
+                                            </div>
+                                        </div>
+
+                                        <div class="tab-pane innerTabCont fade" id="auction2">
+                                            <div class="projectsTab v2">
+                                                <h4 class="col-12 title pr-2"></h4>
+
+                                            </div>
+
+                                            <div class="projectsTab v2">
+                                                <h4 class="col-12 title pr-2"></h4>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                        <div class="bgCover" style="display:none;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+
+<section class="headerSearch collapse" id="header-search">
+    <div class="headerSearch-inner">
+        <div class="inputBlock">
+            <input id="mainSearch" class="inputSearch" type="search" value="" placeholder="הקלד מילת חיפוש..." aria-label="הכנס מילת חיפוש" />
+            <button type="submit" class="searchSubmit searchSubmit2" value="">
+                <img src="/dist/img/pic12.png" class="searchPic" alt="search icon" aria-label="לחץ לחיפוש" />
+            </button>
+        </div>
+        <button class="closeBtn" data-toggle="collapse" data-target="#header-search" aria-expanded="false" aria-controls="header-search" aria-label="סגור תיבת חיפוש"></button>
+    </div>
+</section>
+
+
+<script>
+    parentNodeId = '1057';
+    $(function () {
+        $('.searchSubmit2').on("click", function (e) {
+            e.preventDefault();
+            tabRelatedTo = "all";
+            searchTerm = $('#mainSearchinner').val();
+            sendAjax4();
+            window.location.href = "/" + "search-results/?term=" + $('#mainSearch').val();
+
+        });
+
+        $('.searchSubmit3').on("click", function (e) {
+            e.preventDefault();
+            tabRelatedTo = "all";
+            searchTerm = $('#MobileSearchinner').val();
+            sendAjax4();
+            window.location.href = "/" + "search-results/?term=" + $('#MobileSearchinner').val();
+
+        });
+
+        $('#mainSearch').keypress(function (e) {
+            var key = e.which;
+            if (key == 13)  // the enter key code
+            {
+                $('.searchSubmit').click();
+            }
+        });
+
+        $('#MobileSearchinner').keypress(function (e) {
+            var key = e.which;
+            if (key == 13)  // the enter key code
+            {
+                $('.searchSubmit3').click();
+            }
+        });
+        $("#header-search").on('shown.bs.collapse', function () {
+            console.log("shown");
+            $("#mainSearch").focus();
+        });
+
+    });
+
+    $(function () {
+
+        $('#chooseLanguage').on('changed.bs.select', function (e) {
+            var test = $(this).find(":selected").data('link-to');
+            window.location.href = test;
+
+        });
+
+    });
+
+
+</script>                <a href="#reports" class="reportsTab" data-toggle="collapse" title="פתח דיווחי תנועה" role="button" aria-expanded="false" aria-controls="reports">
+                    <img src="/img/pic40.png" class="pic" alt="דיווחי תנועה" />
+                    <h2 class="title">דיווחי תנועה</h2>
+                </a>
+
+        
+        <!-- endinject -->
+        
+
+
+<div class="collapse stickyInfo" id="reports">
+    <div class="topContent">
+        <div class="titleContainer">
+            <figure>
+                <img src="/img/pic40.png" class="pic" alt="car icon" />
+            </figure>
+            <h2 class="title" role="heading">דיווחי תנועה</h2>
+        </div>
+        <a href="#reports" id="closeReportsPanel" data-toggle="collapse" title="אתה בחלונית דיווחי תנועה לחץ לסגירה או המשך לנווט לתוכן החלונית" class="d-none d-md-block link closeReports" role="button"><span></span> סגור</a>
+        
+    </div>
+    <div class="search">
+
+        <figure>
+            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+        </figure>
+
+        <div class="searchBar">
+            <input type="text" placeholder="חיפוש" class="searchInput" aria-label="חפש דיווחי תנועה" />
+            <div class="searchIcon">
+                <img src="/img/pic11.png" class="pic" alt="לחץ לחיפוש" />
+            </div>
+        </div>
+    </div>
+    <ul class="nav list tabsAccessibility" role="tablist">
+            <li>
+                <a href="#all" class="link" data-toggle="tab" role="tab">
+                    הכל
+                </a>
+            </li>
+        <li>
+            <a href="#constructions" class="link active" data-toggle="tab" role="tab">
+                 עבודות בכביש
+            </a>
+        </li>
+        <li>
+            <a href="#traffic" class="link" data-toggle="tab" role="tab">
+                עומסים
+            </a>
+        </li>
+    </ul>
+    <div class="tab-content">
+            <ul id="all" class="tab-pane reportsList scrollBar">
+                        <li class="item colorOrange">
+                            <button href="#report1" data-toggle="collapse" class="link">
+                                <div class="road">כביש 99</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מפל סער ועד צומת מסעדה
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report1" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report2" data-toggle="collapse" class="link">
+                                <div class="road">כביש 98</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לאלוני הבשן ועד צומת מגדל שמס
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report2" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report3" data-toggle="collapse" class="link">
+                                <div class="road">כביש 91</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נשוט ועד צומת זיוון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report3" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report4" data-toggle="collapse" class="link">
+                                <div class="road">כביש 55</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה למחסום אליהו ועד צומת צופין
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report4" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report5" data-toggle="collapse" class="link">
+                                <div class="road">כביש 989</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מפל סער ועד צומת מגדל שמס
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report5" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report6" data-toggle="collapse" class="link">
+                                <div class="road">כביש 978</div>
+                                        <div class="description">
+            <span></span>
+            מצומת השריון ועד צומת יער אודם
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report6" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report7" data-toggle="collapse" class="link">
+                                <div class="road">כביש 8900</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עין זיתים ועד צומת צפת
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report7" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report8" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9898</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נווה אטי&quot;ב ועד צומת מגדל שמס (דרום)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report8" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report9" data-toggle="collapse" class="link">
+                                <div class="road">כביש 899</div>
+                                        <div class="description">
+            <span></span>
+            מצומת כ&quot;ח ועד צומת ישע
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report9" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58602" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report10" data-toggle="collapse" class="link">
+                                <div class="road">כביש 866</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לשפר ועד צומת מירון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report10" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report11" data-toggle="collapse" class="link">
+                                <div class="road">כביש 45</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עטרות ועד צומת גבעת זאב (חדש)
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report11" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58619" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report12" data-toggle="collapse" class="link">
+                                <div class="road">כביש 4</div>
+                                        <div class="description">
+            <span></span>
+            ממחלף אם המושבות ועד מחלף אלוף שדה
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+
+                            <div id="report12" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58620" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report13" data-toggle="collapse" class="link">
+                                <div class="road">כביש 87</div>
+                                        <div class="description">
+            <span></span>
+            מצומת המפלים ועד צומת בשן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report13" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report14" data-toggle="collapse" class="link">
+                                <div class="road">כביש 864</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה למרכז מסחרי ראמה ועד כניסה לבית גן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report14" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report15" data-toggle="collapse" class="link">
+                                <div class="road">כביש 959</div>
+                                        <div class="description">
+            <span></span>
+            מצומת גונן ועד צומת בראון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report15" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report16" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9881</div>
+                                        <div class="description">
+            <span></span>
+            מצומת אביטל ועד צומת פורן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report16" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report17" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9882</div>
+                                        <div class="description">
+            <span></span>
+            בכניסה למרום גולן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report17" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report18" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9898</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נווה אטי&quot;ב ועד צומת מגדל שמס (דרום)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+
+                            <div id="report18" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report19" data-toggle="collapse" class="link">
+                                <div class="road">כביש 5</div>
+                                        <div class="description">
+            <span></span>
+            ממחלף ירקון ועד מחלף קסם
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+
+                            <div id="report19" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58627" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report20" data-toggle="collapse" class="link">
+                                <div class="road">כביש 375</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לחוסאן ועד צומת חוסן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report20" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report21" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עפרה ועד צומת גבעת אסף
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report21" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report22" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד כניסה לאפרת (צפון)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report22" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58630" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report23" data-toggle="collapse" class="link">
+                                <div class="road">כביש 4315</div>
+                                        <div class="description">
+            <span></span>
+            בצומת באר יעקב
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+
+                            <div id="report23" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report24" data-toggle="collapse" class="link">
+                                <div class="road">כביש 1</div>
+                                
+                                    <div class="area">מרכז</div>
+                            </button>
+
+                            <div id="report24" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58632" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report25" data-toggle="collapse" class="link">
+                                <div class="road">כביש 35</div>
+                                        <div class="description">
+            <span></span>
+            מצומת העוקפים ועד צומת תרקומיא
+            <br />
+            21:10 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report25" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report26" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד צומת לקריית ארבע
+            <br />
+            21:12 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report26" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58634" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report27" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד צומת לקריית ארבע
+            <br />
+            21:12 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report27" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58635" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report28" data-toggle="collapse" class="link">
+                                <div class="road">כביש 375</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לחוסאן ועד צומת חוסן
+            <br />
+            21:13 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report28" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#report29" data-toggle="collapse" class="link">
+                                <div class="road">כביש 505</div>
+                                        <div class="description">
+            <span></span>
+            מצומת תפוח ועד כניסה למגדלים
+            <br />
+            21:13 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+
+                            <div id="report29" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </li>
+
+            </ul>
+        <ul id="constructions" class="tab-pane reportsList scrollBar active show">
+        </ul>
+
+        <ul id="traffic" class="tab-pane reportsList scrollBar">
+                        <li class="item colorOrange">
+                            <button href="#jam30" data-toggle="collapse" class="link">
+                                <div class="road">כביש 1</div>
+                                
+                                    <div class="area">מרכז</div>
+                            </button>
+                            <div id="jam30" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58632" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam31" data-toggle="collapse" class="link">
+                                <div class="road">כביש 4</div>
+                                        <div class="description">
+            <span></span>
+            ממחלף אם המושבות ועד מחלף אלוף שדה
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+                            <div id="jam31" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58620" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam32" data-toggle="collapse" class="link">
+                                <div class="road">כביש 5</div>
+                                        <div class="description">
+            <span></span>
+            ממחלף ירקון ועד מחלף קסם
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+                            <div id="jam32" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58627" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam33" data-toggle="collapse" class="link">
+                                <div class="road">כביש 35</div>
+                                        <div class="description">
+            <span></span>
+            מצומת העוקפים ועד צומת תרקומיא
+            <br />
+            21:10 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam33" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam34" data-toggle="collapse" class="link">
+                                <div class="road">כביש 45</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עטרות ועד צומת גבעת זאב (חדש)
+            <br />
+            19:39 עומס
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam34" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58619" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam35" data-toggle="collapse" class="link">
+                                <div class="road">כביש 55</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה למחסום אליהו ועד צומת צופין
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam35" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam36" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד צומת לקריית ארבע
+            <br />
+            21:12 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam36" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58634" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam37" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד צומת לקריית ארבע
+            <br />
+            21:12 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam37" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58635" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam38" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מנהרת גילה ועד כניסה לאפרת (צפון)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam38" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58630" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam39" data-toggle="collapse" class="link">
+                                <div class="road">כביש 60</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עפרה ועד צומת גבעת אסף
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam39" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam40" data-toggle="collapse" class="link">
+                                <div class="road">כביש 87</div>
+                                        <div class="description">
+            <span></span>
+            מצומת המפלים ועד צומת בשן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam40" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam41" data-toggle="collapse" class="link">
+                                <div class="road">כביש 91</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נשוט ועד צומת זיוון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam41" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam42" data-toggle="collapse" class="link">
+                                <div class="road">כביש 98</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לאלוני הבשן ועד צומת מגדל שמס
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam42" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam43" data-toggle="collapse" class="link">
+                                <div class="road">כביש 99</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מפל סער ועד צומת מסעדה
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam43" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam44" data-toggle="collapse" class="link">
+                                <div class="road">כביש 375</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לחוסאן ועד צומת חוסן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam44" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam45" data-toggle="collapse" class="link">
+                                <div class="road">כביש 375</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לחוסאן ועד צומת חוסן
+            <br />
+            21:13 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam45" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam46" data-toggle="collapse" class="link">
+                                <div class="road">כביש 505</div>
+                                        <div class="description">
+            <span></span>
+            מצומת תפוח ועד כניסה למגדלים
+            <br />
+            21:13 חסום
+        </div>
+
+                                    <div class="area">יוש</div>
+                            </button>
+                            <div id="jam46" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam47" data-toggle="collapse" class="link">
+                                <div class="road">כביש 864</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה למרכז מסחרי ראמה ועד כניסה לבית גן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam47" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam48" data-toggle="collapse" class="link">
+                                <div class="road">כביש 866</div>
+                                        <div class="description">
+            <span></span>
+            מכניסה לשפר ועד צומת מירון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam48" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam49" data-toggle="collapse" class="link">
+                                <div class="road">כביש 899</div>
+                                        <div class="description">
+            <span></span>
+            מצומת כ&quot;ח ועד צומת ישע
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam49" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                            <img src="/img/pic41.png" class="pic" alt="camera icon" />
+                                    </figure>
+
+                                    <div class="content">
+                                            <a href="https://www.iroads.co.il/cameras-per-area-page/?reportId=58602" class="link" target="_blank">לצפייה במצלמת תנועה </a>
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam50" data-toggle="collapse" class="link">
+                                <div class="road">כביש 959</div>
+                                        <div class="description">
+            <span></span>
+            מצומת גונן ועד צומת בראון
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam50" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam51" data-toggle="collapse" class="link">
+                                <div class="road">כביש 978</div>
+                                        <div class="description">
+            <span></span>
+            מצומת השריון ועד צומת יער אודם
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam51" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam52" data-toggle="collapse" class="link">
+                                <div class="road">כביש 989</div>
+                                        <div class="description">
+            <span></span>
+            מצומת מפל סער ועד צומת מגדל שמס
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam52" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam53" data-toggle="collapse" class="link">
+                                <div class="road">כביש 4315</div>
+                                        <div class="description">
+            <span></span>
+            בצומת באר יעקב
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">מרכז</div>
+                            </button>
+                            <div id="jam53" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam54" data-toggle="collapse" class="link">
+                                <div class="road">כביש 8900</div>
+                                        <div class="description">
+            <span></span>
+            מצומת עין זיתים ועד צומת צפת
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam54" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam55" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9881</div>
+                                        <div class="description">
+            <span></span>
+            מצומת אביטל ועד צומת פורן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam55" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam56" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9882</div>
+                                        <div class="description">
+            <span></span>
+            בכניסה למרום גולן
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam56" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam57" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9898</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נווה אטי&quot;ב ועד צומת מגדל שמס (דרום)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam57" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="item colorOrange">
+                            <button href="#jam58" data-toggle="collapse" class="link">
+                                <div class="road">כביש 9898</div>
+                                        <div class="description">
+            <span></span>
+            מצומת נווה אטי&quot;ב ועד צומת מגדל שמס (דרום)
+            <br />
+            19:39 חסום
+        </div>
+
+                                    <div class="area">צפון</div>
+                            </button>
+                            <div id="jam58" class="collapse">
+                                <div class="extraInfo">
+                                    <figure>
+                                    </figure>
+
+                                    <div class="content">
+
+                                        
+                                        
+                                        
+                                        
+
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+            
+        </ul>
+
+
+    </div>
+</div>
+
+
+<script>
+    var trafficReportsPLayers = [];
+    function initPlayer(file, image, title, elemntId) {
+
+        //debugger;
+        var trafficReportsPlayerInstance = jwplayer(elemntId).setup({
+            file: file,
+            image: image,
+            title: title,
+            height: 161,
+            width: 245,
+            "autostart": false,
+            "displaytitle": true,
+            //ga: '{}'
+        });
+
+        trafficReportsPlayerInstance.on('error', function (e) {
+            if (e.message === 'The live stream is either down or has ended') {
+                console.log('jwplayer error:  The live stream is either down or has ended');
+            }
+        });
+
+        trafficReportsPLayers.push(trafficReportsPlayerInstance);
+    }
+
+    $(function () {
+
+        var tt = [
+  {
+    "id": 479,
+    "name": "KOAKH",
+    "title": "צומת  כ\"ח",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/KOAKH/KOAKH.PNG",
+    "details": "",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5e0d15ab12687.streamlock.net/live/KOAKH.stream",
+    "player_url_ios": "https://5e0d15ab12687.streamlock.net/live/KOAKH.stream/playlist.m3u8"
+  },
+  {
+    "id": 219,
+    "name": "ATAROT",
+    "title": "עטרות",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/ATAROT/atarot.png",
+    "details": "443",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5e0d15ab12687.streamlock.net/live/ATAROT.stream",
+    "player_url_ios": "https://5e0d15ab12687.streamlock.net/live/ATAROT.stream/playlist.m3u8"
+  },
+  {
+    "id": 421,
+    "name": "EMHAMOSHAVOT",
+    "title": "אם המושבות",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/EMHAMOSHAVOT/EMHMOSHAVOT.PNG",
+    "details": "4",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5e0d15ab12687.streamlock.net/live/EMHAMOSHAVOT.stream",
+    "player_url_ios": "https://5e0d15ab12687.streamlock.net/live/EMHAMOSHAVOT.stream/playlist.m3u8"
+  },
+  {
+    "id": 402,
+    "name": "YARKON",
+    "title": "ירקון",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/YARKON/YARKON_2.PNG",
+    "details": "5",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5e0d15ab12687.streamlock.net/live/YARKON.stream",
+    "player_url_ios": "https://5e0d15ab12687.streamlock.net/live/YARKON.stream/playlist.m3u8"
+  },
+  {
+    "id": 304,
+    "name": "GILOLONG",
+    "title": "גילה מנהרה ארוכה",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/GILOLONG/GILOLONG_2.PNG",
+    "details": "60",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream",
+    "player_url_ios": "https://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream/playlist.m3u8"
+  },
+  {
+    "id": 461,
+    "name": "SHAARHAGAI",
+    "title": "שער הגיא",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/SHAARHAGAI/SHAARHAGAI.PNG",
+    "details": "כביש 1",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.4",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5d8c50e7b358f.streamlock.net/live/SHAARHAGAI.stream",
+    "player_url_ios": "https://5d8c50e7b358f.streamlock.net/live/SHAARHAGAI.stream/playlist.m3u8"
+  },
+  {
+    "id": 304,
+    "name": "GILOLONG",
+    "title": "גילה מנהרה ארוכה",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/GILOLONG/GILOLONG_2.PNG",
+    "details": "60",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream",
+    "player_url_ios": "https://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream/playlist.m3u8"
+  },
+  {
+    "id": 304,
+    "name": "GILOLONG",
+    "title": "גילה מנהרה ארוכה",
+    "image_file": "https://iroads.bvtech.co.il:444/upfiles/GILOLONG/GILOLONG_2.PNG",
+    "details": "60",
+    "host_ip": null,
+    "global_url": "",
+    "server_ip": "10.34.151.3",
+    "app_name": "live",
+    "app_instance": "_definst_",
+    "is_recording": 0,
+    "start_recording": "0000-00-00 00:00:00",
+    "server_name": null,
+    "player_url_web": "rtmps://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream",
+    "player_url_ios": "https://5d8c50e7b358f.streamlock.net/live/GILOLONG.stream/playlist.m3u8"
+  }
+];
+        var cameras = eval(tt);
+
+        //$('.item.colorOrange').find('a').on('click',function(){
+        //    if(trafficReportsPlayerInstance){
+        //        trafficReportsPlayerInstance.remove();
+        //    }
+
+        //    var $playerContainer = $(this).siblings('div').find('div[id^=traffic-reports-player-]');
+        //    if($playerContainer){
+        //        var suffix = $playerContainer.data('camera-id');
+        //        //console.log(suffix);
+        //        var camera = cameras.find(x => x.id == suffix);
+        //        // console.log(camera.image_file);
+        //        if(camera){
+        //            var cameraFile = camera.player_url_web;
+        //            var cameraImgUrl = camera.image_file;
+        //            var cameraName = camera.title;
+        //            var playerContainerId = $playerContainer.attr('id');
+        //            initPlayer(cameraFile, cameraImgUrl, cameraName, playerContainerId);
+        //        }
+        //    }
+        //});
+
+        $('div[id^=traffic-reports-player-]').each(function(i,elem){
+            var $playerContainer = $(elem);
+            if($playerContainer){
+                var suffix = $playerContainer.data('camera-id');
+                //console.log(suffix);
+                var camera = cameras.filter(function(x){
+                    return x.id == suffix;
+                });
+                // console.log(camera.image_file);
+                if(camera){
+                    var cameraFile = camera.player_url_web;
+                    var cameraImgUrl = camera.image_file;
+                    var cameraName = camera.title;
+                    var playerContainerId = $playerContainer.attr('id');
+                    initPlayer(cameraFile, cameraImgUrl, cameraName, playerContainerId);
+                }
+            }
+        });
+
+
+        var $searchInput = $('.searchBar .searchInput');
+        $searchInput.on('keyup', function () {
+            var text = $(this).val();
+            var activeListElements = $('ul.active').find('li');
+            if(activeListElements && activeListElements.length > 0){
+                activeListElements.each(function(i,elem){
+
+                    var road = $(elem).find('.road').text();
+                    var area =  $(elem).find('.area').text();
+                    var description = $(elem).find('.description').text();
+
+                    if(text == ''){
+                        $(this).show();
+                    }else if(text != '' && (road.indexOf(text) != -1 || area.indexOf(text) != -1 || description.indexOf(text) != -1 )){
+                        $(this).show();
+                    }else{
+                        $(this).hide();
+                    }
+
+
+
+                });
+            }
+            console.log(activeListElements);
+        });
+
+
+        var $stickyInfo = $('#reports');
+        $stickyInfo.on('shown.bs.collapse', function () {
+            $('.link.closeReports').focus();
+        });
+    });
+</script>
+
+
+        <div class="wrapper" id="wrapper" tabindex="-1">
+
+
+            
+
+
+
+            
+
+<section class="liveCamerasSection lightBgV2" role="region">
+    <div class="container-fluid col9">
+        <h2 class="mainTitle v2" role="heading">
+            מצלמות בשידור חי
+            <a class="link" href="">
+                <img class="icon" src="/dist/img/locationMap.png" />
+                <span class="text">לתצוגת מפה</span>
+            </a>
+            </h2>
+            <article class="preview">
+                <p>
+                   חברת נתיבי ישראל פרסה במהלך השנים האחרונות כ 220 מצלמות לניהול בקרת תנועה בצמתים מרומזרים, מחלפים וקטעי דרך. פריסת המצלמות הינה ארצית וגדלה בכ 30 מצלמות בכל שנה, בתלות בתקציב.<br /><br />המצלמות מותקנות על תרנים בגבהים של 15-21 מ' ובעלות יכולת צפייה ברדיוס של 1000-2000 מטרים בתלות בטופוגרפיה.
+                </p>
+            </article>
+       
+        <div class="simpleSearchBar">
+            <h3 class="label">חיפוש מצלמה</h3>
+            <div class="searchBar">
+                <input type="text" placeholder="הקלד מס&#39; כביש או שם מצלמה" class="searchInput" aria-label="הקלד מס&#39; כביש או שם מצלמה" />
+                <div class="searchIcon">
+                    <img src="/img/pic11.png" class="pic" alt="לחץ לחיפוש" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="camerasSection">
+    <div class="container-fluid col9">
+
+            <div class="innerTabs">
+                <ul class="nav navBarMenu navTabs" role="tablist">
+                    <li class="tab">
+                        <a class="tabLink active" href="#cameraTab" role="tab" data-toggle="tab" data-tab-id="all-cameras">בכל הארץ</a>
+                    </li>
+                            <li class="tab">
+                                
+                                <a class="tabLink" href="#cameraTab" role="tab" data-toggle="tab" data-tab-id="דרום">דרום</a>
+                            </li>
+                            <li class="tab">
+                                
+                                <a class="tabLink" href="#cameraTab" role="tab" data-toggle="tab" data-tab-id="צפון">צפון</a>
+                            </li>
+                            <li class="tab">
+                                
+                                <a class="tabLink" href="#cameraTab" role="tab" data-toggle="tab" data-tab-id="מרכז">מרכז</a>
+                            </li>
+                            <li class="tab">
+                                
+                                <a class="tabLink" href="#cameraTab" role="tab" data-toggle="tab" data-tab-id="יוש">יוש</a>
+                            </li>
+                </ul>
+            </div>
+       
+
+        <!-- Tab panes -->
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane fade in active show" id="cameraTab">
+              
+            </div>
+        </div>
+
+    </div>
+</section>
+<script src="/Scripts/camerasLobby.js"></script>
+<script>
+    culture = ' he';
+    rootNodeId = '1057';
+    itemsPerPage = '15';
+</script>
+
+
+
+
+            <section>
+                <!-- inject:footer -->
+
+<footer id="footerMenu" class="footer" role="contentinfo" tabindex="-1">
+    <div class="container-fluid">
+        <div class="actionBtns">
+                <a href="/דיווח-על-מפגעפניות-הציבור/" class="btn call d-none d-xl-block">
+                   2120* 
+                </a>
+
+                <a href="tel:*2120" class="btn call d-xl-none">
+                    *2120 
+                </a>
+
+            <div class="socialIcons">
+
+
+    <a href="https://www.facebook.com/netiveiisrael" class="link" target="_blank">
+        <img src="/media/1018/pic18.png" class="pic" alt="לחץ לפתיחת הפייסבוק" />
+    </a>
+
+
+
+    <a href="https://www.youtube.com/channel/UCHh-k1yYo5dU8Vt11VRDYiQ" class="link" target="_blank">
+        <img src="/media/1017/pic17.png" class="pic" alt="לחץ לפתיחת היוטיוב" />
+    </a>
+
+
+
+    <a href="mailto:pniyot@iroads.co.il" class="link">
+        <img src="/media/1016/pic16.png" class="pic" alt="לחץ לפתיחת תוכנת המייל" />
+    </a>
+
+
+
+    <a href="/דפי-footer/הסדרי-נגישות-חברת-נתיבי-ישראל/" class="link" target="_blank">
+        <img src="/media/7998/accessibility_icon.png" class="pic" alt="הסדרי נגישות" />
+    </a>
+
+            </div>
+        </div>
+
+
+            <ul class="footerLinks" role="list">
+                    <li role="listitem">
+                        <a href="/על-החברה/about/" class="link borderedLink" target="">על החברה</a>
+                    </li>
+                    <li role="listitem">
+                        <a href="/תיקיית-פרויקטים/project-lobby/" class="link borderedLink" target="">פרויקטים</a>
+                    </li>
+                    <li role="listitem">
+                        <a href="/מכרזים/מכרזים/" class="link borderedLink" target="">מכרזים</a>
+                    </li>
+                    <li role="listitem">
+                        <a href="/על-החברה/jobs-page/" class="link borderedLink" target="">דרושים</a>
+                    </li>
+                    <li role="listitem">
+                        <a href="/דפי-footer/הסדרי-נגישות-חברת-נתיבי-ישראל/" class="link borderedLink" target="">הסדרי נגישות</a>
+                    </li>
+            </ul>
+
+        <ul class="footerLinks" role="list">
+                <li role="listitem">
+                    <a href="/דפי-footer/תנאי-שימוש-כללי/" class="link borderedLink" target="">תנאי שימוש - כללי</a>
+                </li>
+                <li role="listitem">
+                    <a href="/דפי-footer/תנאי-שימוש-מכרזים/" class="link borderedLink" target="">תנאי שימוש - מכרזים</a>
+                </li>
+                <li role="listitem">
+                    <a href="/דיווח-על-מפגעפניות-הציבור/" class="link borderedLink" target="">שירות לקוחות</a>
+                </li>
+                <li role="listitem">
+                    <a href="/תיקיית-מצלמות/" class="link borderedLink" target="">מצלמות תנועה</a>
+                </li>
+          
+        </ul>
+
+        <div class="siteBy">
+            <span>כל הזכויות שמורות 2018</span>
+            <a href="http://www.ngsoft.com/">
+                <img src="/dist/img/pic19.png" class="pic" alt="site By" />
+            </a>
+        </div>
+
+    </div>
+</footer>
+
+                <!-- endinject -->
+            </section>
+        </div>
+
+    </main>
+
+    <script>
+        $(function () {
+
+            //$('.submit-btn button').on('hover', function () {
+            //    $(this).css('top', rand(1, 1000) + 'px').css('left', rand(1, 1000) + 'px');
+            //});
+
+            //$('.uploadfile').on('mouseover', function () {
+
+            //    var top = Math.random() * 300;
+            //    var left = Math.random() * 300;
+            //    $(this).css('top', top + 'px').css('left', left + 'px');
+            //});
+        });
+    </script>
+<script async type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=4&cb=639605886"></script>
+</body>
+</html>

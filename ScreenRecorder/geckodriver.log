@@ -1,0 +1,554 @@
+1630656061166	geckodriver	INFO	Listening on 127.0.0.1:65254
+1630656064229	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileplB1Mi"
+1630656065840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileplB1Mi\\search.json.mozlz4", (void 0)))
+1630656069122	Marionette	INFO	Listening on port 65270
+1630656069397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025854243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025854243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025854243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025854243 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025854243 line 1 > eval, line 1: unreachable code after return statement
+1630656090346	geckodriver	INFO	Listening on 127.0.0.1:65353
+1630656093381	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileJ0F19x"
+1630656093945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileJ0F19x\\search.json.mozlz4", (void 0)))
+1630656096529	Marionette	INFO	Listening on port 65362
+1630656097013	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1406839285, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1406839285, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1406839285 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630658171718	Marionette	INFO	Stopped listening on port 65362
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630659719219	geckodriver	INFO	Listening on 127.0.0.1:55752
+1630659722227	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile6IoHl0"
+1630659723775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile6IoHl0\\search.json.mozlz4", (void 0)))
+1630659726638	Marionette	INFO	Listening on port 55760
+1630659726729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1736318150, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1736318150, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1736318150 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630660858144	Marionette	INFO	Stopped listening on port 55760
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631183121930	geckodriver	INFO	Listening on 127.0.0.1:65525
+1631183124992	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile2XWa6o"
+1631183126709	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile2XWa6o\\search.json.mozlz4", (void 0)))
+1631183129675	Marionette	INFO	Listening on port 65533
+1631183130163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=398846243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=398846243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=398846243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=398846243 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=398846243 line 1 > eval, line 1: unreachable code after return statement
+1631183143776	Marionette	INFO	Stopped listening on port 65533
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631183147595	geckodriver	INFO	Listening on 127.0.0.1:64159
+1631183150659	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilevSIQLg"
+1631183151238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilevSIQLg\\search.json.mozlz4", (void 0)))
+1631183153709	Marionette	INFO	Listening on port 64167
+1631183153812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=825293190, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=825293190, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=825293190, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=825293190 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=825293190 line 1 > eval, line 1: unreachable code after return statement
+1631183155247	Marionette	INFO	Stopped listening on port 64167
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631183172402	geckodriver	INFO	Listening on 127.0.0.1:64214
+1631183175464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilevoJXtk"
+1631183176014	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilevoJXtk\\search.json.mozlz4", (void 0)))
+1631183178677	Marionette	INFO	Listening on port 64222
+1631183179102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=23474165, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=23474165, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=23474165, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=23474165 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=23474165 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 35: TypeError: playerInstances[index] is undefined
+1631183202804	Marionette	INFO	Stopped listening on port 64222
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631183205322	geckodriver	INFO	Listening on 127.0.0.1:64322
+1631183208378	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileYAnZVn"
+1631183208929	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileYAnZVn\\search.json.mozlz4", (void 0)))
+1631183211420	Marionette	INFO	Listening on port 64330
+1631183211512	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1032497116, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1032497116, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1032497116, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1032497116 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1032497116 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631191594863	Marionette	INFO	Stopped listening on port 64330
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile4WED4r\\search.json.mozlz4", (void 0)))
+1631185477571	Marionette	INFO	Listening on port 56393
+1631185477721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796816243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796816243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796816243, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796816243 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796816243 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631191594304	Marionette	INFO	Stopped listening on port 56393
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilemQIbdY\\search.json.mozlz4", (void 0)))
+1631185514854	Marionette	INFO	Listening on port 56501
+1631185515381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270501255, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270501255, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270501255, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270501255 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=270501255 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631191594348	Marionette	INFO	Stopped listening on port 56501
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilep2Srf1\\search.json.mozlz4", (void 0)))
+1631185541353	Marionette	INFO	Listening on port 56600
+1631185541650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1979217639, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1979217639, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1979217639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1979217639 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631191594390	Marionette	INFO	Stopped listening on port 56600
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileYhn4R1\\search.json.mozlz4", (void 0)))
+1631188451151	Marionette	INFO	Listening on port 60784
+1631188451812	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=80722393, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=80722393, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=80722393, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=80722393 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=80722393 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631191593854	Marionette	INFO	Stopped listening on port 60784
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json.tmp) to destination(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json)
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  CrashMonitor: Writing notifications to file after receiving profile-before-change
+          Phase: IOUtils: waiting for profileBeforeChange IO to complete
+          State: (none)
+WARNING: OperationError: Could not move temporary file(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json.tmp) to destination(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json)
+WARNING: observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json.tmp) to destination(C:\Users\sbroner\AppData\Local\Temp\rust_mozprofileYhn4R1\sessionCheckpoints.json)
+1631191684619	geckodriver	INFO	Listening on 127.0.0.1:61697
+1631191687633	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilewDEK0b"
+1631191689566	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilewDEK0b\\search.json.mozlz4", (void 0)))
+1631191694881	Marionette	INFO	Listening on port 55356
+1631191695017	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=345634633, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=345634633, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=345634633, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=345634633 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=345634633 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631191705939	Marionette	INFO	Stopped listening on port 55356
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631191711367	geckodriver	INFO	Listening on 127.0.0.1:53188
+1631191714380	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileaagZZ2"
+1631191715473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileaagZZ2\\search.json.mozlz4", (void 0)))
+1631191720861	Marionette	INFO	Listening on port 58136
+1631191721356	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1895893351, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1895893351, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1895893351 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631191732938	Marionette	INFO	Stopped listening on port 58136
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631191737639	geckodriver	INFO	Listening on 127.0.0.1:58227
+1631191740659	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileiZcuT7"
+1631191741811	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileiZcuT7\\search.json.mozlz4", (void 0)))
+1631191747620	Marionette	INFO	Listening on port 58235
+1631191747672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2026410414, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2026410414, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2026410414, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2026410414 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2026410414 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631194775408	Marionette	INFO	Stopped listening on port 58235
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631194840169	geckodriver	INFO	Listening on 127.0.0.1:63177
+1631194843235	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileuWWwpc"
+1631194844976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileuWWwpc\\search.json.mozlz4", (void 0)))
+1631194848555	Marionette	INFO	Listening on port 63185
+1631194848826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1921016410, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1921016410, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1921016410 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631194859255	Marionette	INFO	Stopped listening on port 63185
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631194863124	geckodriver	INFO	Listening on 127.0.0.1:63275
+1631194866148	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilec0x2c0"
+1631194866758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilec0x2c0\\search.json.mozlz4", (void 0)))
+1631194869243	Marionette	INFO	Listening on port 63283
+1631194869293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1878256292, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1878256292, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1878256292, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1878256292 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1878256292 line 1 > eval, line 1: unreachable code after return statement
+1631194885772	Marionette	INFO	Stopped listening on port 63283
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631194889459	geckodriver	INFO	Listening on 127.0.0.1:52700
+1631194892514	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileYIeOMO"
+1631194893082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileYIeOMO\\search.json.mozlz4", (void 0)))
+1631194895917	Marionette	INFO	Listening on port 52709
+1631194896170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=112098246, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=112098246, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=112098246, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=112098246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=112098246 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631194909309	Marionette	INFO	Stopped listening on port 52709
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631194913267	geckodriver	INFO	Listening on 127.0.0.1:52803
+1631194916313	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileaXBMeS"
+1631194916891	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileaXBMeS\\search.json.mozlz4", (void 0)))
+1631194919583	Marionette	INFO	Listening on port 52811
+1631194919978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=895305879, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=895305879, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=895305879, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=895305879 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=895305879 line 1 > eval, line 1: unreachable code after return statement
+1631194933056	Marionette	INFO	Stopped listening on port 52811
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631194936711	geckodriver	INFO	Listening on 127.0.0.1:52898
+1631194939752	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileRt2QJr"
+1631194940315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileRt2QJr\\search.json.mozlz4", (void 0)))
+1631194942918	Marionette	INFO	Listening on port 52906
+1631194943396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1073174090, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1073174090, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1073174090, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1073174090 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1073174090 line 1 > eval, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631198487675	Marionette	INFO	Stopped listening on port 52906
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631198496849	geckodriver	INFO	Listening on 127.0.0.1:54338
+1631198499873	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile6hnJvZ"
+1631198501636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofile6hnJvZ\\search.json.mozlz4", (void 0)))
+1631198505746	Marionette	INFO	Listening on port 54346
+1631198506086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=794291356, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=794291356, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=794291356, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=794291356 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=794291356 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631198518270	Marionette	INFO	Stopped listening on port 54346
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631198523768	geckodriver	INFO	Listening on 127.0.0.1:54436
+1631198526787	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileobgBKX"
+1631198527539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileobgBKX\\search.json.mozlz4", (void 0)))
+1631198531487	Marionette	INFO	Listening on port 54444
+1631198531562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 13316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=697130134, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=697130134, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=697130134, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=697130134 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=697130134 line 1 > eval, line 1: unreachable code after return statement
+1631198548053	Marionette	INFO	Stopped listening on port 54444
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 13316, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1631198551509	geckodriver	INFO	Listening on 127.0.0.1:53197
+1631198554518	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilejKTCJs"
+1631198555288	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilejKTCJs\\search.json.mozlz4", (void 0)))
+1631198559322	Marionette	INFO	Listening on port 53205
+1631198559770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=885905323, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=885905323, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=885905323, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=885905323 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=885905323 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631198576217	Marionette	INFO	Stopped listening on port 53205
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631198579128	geckodriver	INFO	Listening on 127.0.0.1:53303
+1631198582141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileiN66YI"
+1631198582871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileiN66YI\\search.json.mozlz4", (void 0)))
+1631198586934	Marionette	INFO	Listening on port 53311
+1631198587419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=889211148, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=889211148, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=889211148, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=889211148 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=889211148 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1631202110171	Marionette	INFO	Stopped listening on port 53311
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1631536766415	geckodriver	INFO	Listening on 127.0.0.1:53907
+1631536769460	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileIM9Qbj"
+1631536770818	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileIM9Qbj\\search.json.mozlz4", (void 0)))
+1631536773620	Marionette	INFO	Listening on port 53915
+1631536773875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15693206, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15693206, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=15693206 line 1 > eval, line 1: unreachable code after return statement
+1631536794223	Marionette	INFO	Stopped listening on port 53915
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631536821848	geckodriver	INFO	Listening on 127.0.0.1:56329
+1631536824860	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileL8oPN2"
+1631536825419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileL8oPN2\\search.json.mozlz4", (void 0)))
+1631536828216	Marionette	INFO	Listening on port 56337
+1631536828497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=75367115, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=75367115, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=75367115 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631536840763	Marionette	INFO	Stopped listening on port 56337
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631551117323	geckodriver	INFO	Listening on 127.0.0.1:53330
+1631551120389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilePa4UJJ"
+1631551121747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofilePa4UJJ\\search.json.mozlz4", (void 0)))
+1631551124768	Marionette	INFO	Listening on port 53338
+1631551124892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=586403902, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=586403902, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=586403902, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=586403902 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=586403902 line 1 > eval, line 1: unreachable code after return statement
+1631551157256	Marionette	INFO	Stopped listening on port 53338
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1631551720800	geckodriver	INFO	Listening on 127.0.0.1:58040
+1631551723814	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileUCCqjD"
+1631551724402	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileUCCqjD\\search.json.mozlz4", (void 0)))
+1631551727242	Marionette	INFO	Listening on port 58048
+1631551727456	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=853601419, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=853601419, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=853601419, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=853601419 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=853601419 line 1 > eval, line 1: unreachable code after return statement
+1631551754259	Marionette	INFO	Stopped listening on port 58048
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631551770519	geckodriver	INFO	Listening on 127.0.0.1:60308
+1631551773530	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileQSXvAx"
+1631551774329	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileQSXvAx\\search.json.mozlz4", (void 0)))
+1631551777089	Marionette	INFO	Listening on port 60316
+1631551777169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=779302233, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=779302233, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=779302233, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=779302233 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=779302233 line 1 > eval, line 1: unreachable code after return statement
+1631551797718	Marionette	INFO	Stopped listening on port 60316
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1631551806955	geckodriver	INFO	Listening on 127.0.0.1:58282
+1631551810006	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileRwDGS5"
+1631551810551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\sbroner\\AppData\\Local\\Temp\\rust_mozprofileRwDGS5\\search.json.mozlz4", (void 0)))
+1631551813040	Marionette	INFO	Listening on port 58290
+1631551813142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=520037216, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=520037216, line 1: unreachable code after return statement
+JavaScript warning: https://www.iroads.co.il/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=520037216 line 1 > eval, line 1: unreachable code after return statement
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+JavaScript error: https://www.iroads.co.il/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA-%D7%9E%D7%A6%D7%9C%D7%9E%D7%95%D7%AA/ line 1 > injectedScript, line 4: TypeError: jwplayer(...).setup is not a function
+1631551851223	Marionette	INFO	Stopped listening on port 58290
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
